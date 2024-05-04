@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nainika-9
+- 👋 Hi, I’m @Nainika
 - 👀 I’m interested in finance and data analytics
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects related to data analytics
